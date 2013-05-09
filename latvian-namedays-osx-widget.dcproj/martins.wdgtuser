@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CYLastWindowPosition</key>
+	<string>{498, 559}</string>
+	<key>ContentSplitViewGeometry</key>
+	<dict>
+		<key>ContentSplitViewConfig</key>
+		<integer>8</integer>
+		<key>SplitViewConfig</key>
+		<integer>3</integer>
+		<key>_indexOfCollapsedView</key>
+		<integer>0</integer>
+		<key>sizes</key>
+		<array>
+			<string>{{0, 0}, {1179, 486}}</string>
+			<string>{{0, 496}, {1179, 820}}</string>
+		</array>
+	</dict>
+	<key>ContentViewType</key>
+	<integer>0</integer>
+	<key>DeploymentOptions</key>
+	<dict>
+		<key>CompressJavaScript</key>
+		<true/>
+		<key>Destination</key>
+		<string>localhost.default</string>
+		<key>Save</key>
+		<true/>
+		<key>SavePath</key>
+		<string>/Users/martins/Work/pilsetnieks.com/Projects/Opensource/latvian-namedays-osx-widget</string>
+		<key>WidgetDeployName</key>
+		<string>Names</string>
+		<key>enableSimulation</key>
+		<true/>
+		<key>simulatedHost</key>
+		<string>Martinss-MacBook-Pro.local</string>
+	</dict>
+	<key>Design time language</key>
+	<string>lv.lproj</string>
+	<key>MainSplitViewGeometry</key>
+	<dict>
+		<key>_indexOfCollapsedView</key>
+		<integer>0</integer>
+		<key>sizes</key>
+		<array>
+			<string>{{0, 0}, {244, 1337}}</string>
+			<string>{{245, 0}, {1180, 1337}}</string>
+		</array>
+	</dict>
+	<key>MainWindowFrame</key>
+	<string>547 60 1424 1358 0 0 2560 1418 </string>
+	<key>NavigatorSplitViewGeometry</key>
+	<dict>
+		<key>ContentSplitViewConfig</key>
+		<integer>5</integer>
+		<key>SplitViewConfig</key>
+		<integer>3</integer>
+		<key>_indexOfCollapsedView</key>
+		<integer>0</integer>
+		<key>sizes</key>
+		<array>
+			<string>{{0, 0}, {246, 670}}</string>
+			<string>{{0, 680}, {246, 636}}</string>
+		</array>
+	</dict>
+	<key>Widget</key>
+	<dict>
+		<key>Objects view expanded items</key>
+		<array>
+			<array>
+				<integer>0</integer>
+			</array>
+			<array>
+				<integer>0</integer>
+				<integer>0</integer>
+			</array>
+			<array>
+				<integer>0</integer>
+				<integer>1</integer>
+			</array>
+		</array>
+		<key>Objects view last selections</key>
+		<array/>
+		<key>Opened Steps</key>
+		<array>
+			<integer>4</integer>
+			<integer>5</integer>
+		</array>
+		<key>Visible StackLayout Views</key>
+		<array>
+			<string>back</string>
+		</array>
+	</dict>
+</dict>
+</plist>
