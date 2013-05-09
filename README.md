@@ -1,4 +1,4 @@
-[Download link](https://github.com/pilsetnieks/latvian-namedays-osx-widget/blob/master/Names.1.0.3.zip)
+[Download link](https://github.com/pilsetnieks/latvian-namedays-osx-widget/blob/master/Names.1.0.3.zip)  
 Platform: OS X  
 Versions supported: 10.4.3 and newer
 
@@ -16,9 +16,7 @@ inbetween are supported as well.
 is the Dashcode project for this widget, however the source code alone is also available in the
 [src](https://github.com/pilsetnieks/latvian-namedays-osx-widget/tree/master/src) directory.
 
-[Download link](https://github.com/pilsetnieks/latvian-namedays-osx-widget/blob/master/Names.1.0.3.zip)
-
-#### Note about installation on OS X 10.8
+###### Note about installation on OS X 10.8
 
 Depending on your computer settings you may be asked whether you want to install this application from an
 unidentified developer. That is because 10.8 has a new security measure where it asks applications to be
@@ -30,3 +28,5 @@ threatening there at all.
 
 To avoid the warning, just right-click on the widget icon and agree to the confirmation about installing
 the widget.
+
+[Download link](https://github.com/pilsetnieks/latvian-namedays-osx-widget/blob/master/Names.1.0.3.zip)
