@@ -16,8 +16,8 @@ Versions supported: 10.4.3 and newer
 
 Depending on your computer settings you may be asked whether you want to install this application from an
 unidentified developer. That is because 10.8 has a new security measure where it asks applications to be
-digitally signed by their developers. While this feature is actually pretty good, unfortunately, it is
-currently not possible to sign a widget in any way.
+digitally signed by their developers. While this feature is actually pretty good, it requires a $99/year
+registration for a developer program which is a little steep for this one widget.
 
 However, you can examine the code (there's very little of it) and see for yourself that there is nothing
 threatening there at all.
